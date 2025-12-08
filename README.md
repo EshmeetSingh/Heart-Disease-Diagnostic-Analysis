@@ -62,6 +62,7 @@ I benchmarked six different classifiers. **Logistic Regression** and the **Votin
 ├── Datasets/
 │   └── heart.csv                            # Raw dataset
 ├── Heart_Disease_Prediction_Analysis.ipynb  # Main analysis notebook
+├── Heart_Disease_Profile_Report.html        # Automated EDA report (Download to view)
 └── README.md                                # Project documentation
 
 ```
